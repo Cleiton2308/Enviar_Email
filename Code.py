@@ -1,3 +1,5 @@
+#--------------------------------------------------------------------#
+
 """
 #Para rodar esse codigo e necessario:
 habilitar no seu e-mail a opção Permitir aplicativos menos seguros:
@@ -29,3 +31,6 @@ try:
 
 except smtplib.SMTPAuthenticationError:
     print("unable to sign in")
+
+
+#--------------------------------------------------------------------#
